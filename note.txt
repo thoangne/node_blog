@@ -1,0 +1,1 @@
+sử dụng thư viện Nodemon để fix bug ==> khi chạy server thì k cần thoát server để chạy lại 
